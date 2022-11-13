@@ -1,0 +1,16 @@
+{
+    "name": "kishor-rajbanshi/namespace-lock",
+    "description": "The Namespace Locker",
+    "type": "project",
+    "keywords": [
+        "namespace lock"
+    ],
+    "authors": [
+        {
+            "name": "kishor-rajbanshi",
+            "email": "kishorrajbanshi00@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
