@@ -8,7 +8,9 @@
     "authors": [
         {
             "name": "kishor-rajbanshi",
-            "email": "kishorrajbanshi00@gmail.com"
+            "email": "kishorrajbanshi00@gmail.com",
+            "homepage": "https://kishor-rajbanshi.com.np",
+            "role": "developer"
         }
     ],
     "license": "MIT",
